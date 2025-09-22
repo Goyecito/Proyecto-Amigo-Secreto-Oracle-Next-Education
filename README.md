@@ -12,3 +12,12 @@ Asignación del destinatario: Se hace un sorteo aleatorio para decidir quien es 
 Preparación del regalo: Cada participante debe preparar un regalo para la persona que le tocó en el sorteo, sin que esta sepa quién es el autor.
 
 Entrega del regalo: Los regalos se entregan en una fecha y lugar acordados, que puede ser en una reunión familiar o de amigos, especialmente durante la época navideña. En algunos casos, la entrega puede ser virtual
+
+<h1>Funcionalidades<h1>
+
+- Agregar nombres a una lista de amigos.
+- Validar que el campo de texto esté vacío antes de añadir.
+- Visualizar los nombres añadidos en una lista visible en la pantalla.
+- Realizar un sorteo aleatorio entre los participantes ingresados.
+- Mostrar el nombre del amigo sorteado en pantalla.
+
